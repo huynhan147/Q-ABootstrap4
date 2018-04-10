@@ -51,5 +51,5 @@ Vài điểm khác biệt giữa LESS và SASS :
 - Tạo `_variables.scss` và ghi đè lại thuộc tính css
 # Câu 7 : Mô tả  basic workflow của sass với bs4 được giới thiệu trong video?
 - B1: Tạo file `app.scss`và `_variables.css` có nội dung giống file `app.scss`và `_variables.css` của bootstrap rồi comment lại tất cả nội dung ,còn `_base.scss` viết css cần thêm.
--B2 : Sử dụng Ruby để complie sass sang css . Khi sử dụng đến phần nào của Bootstrap thì ta bỏ comment phần đó trong file `app.scss`. mới được tạo
--B3 : Dùng ruby để build ra file app.css.. t sử dụng file app.css trong project của mình
+- B2 : Sử dụng Ruby để complie sass sang css . Khi sử dụng đến phần nào của Bootstrap thì ta bỏ comment phần đó trong file `app.scss`. mới được tạo
+- B3 : Dùng ruby để build ra file app.css.. t sử dụng file app.css trong project của mình
